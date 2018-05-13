@@ -1,0 +1,12 @@
+{
+  "name": "WRTC",
+  "version": "0.0.1",
+  "description": "WebRTC codelab",
+  "dependencies": {
+    "express": "^4.16.3",
+    "hbs": "^4.0.1",
+    "node-static": "^0.7.10",
+    "normalize-port": "^1.0.0",
+    "socket.io": "^2.1.0"
+  }
+}
